@@ -1109,13 +1109,6 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fortawesome/react-fontawesome@^0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.12.tgz#fbdea86e8b73032895e6ded1ee1dbb1874902d1a"
-  integrity sha512-kV6HtqotM3K4YIXlTVvomuIi6QgGCvYm++ImyEx2wwgmSppZ6kbbA29ASwjAUBD63j2OFU0yoxeXpZkjrrX0qQ==
-  dependencies:
-    prop-types "^15.7.2"
-
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -7098,7 +7091,7 @@ json-schema@0.2.3:
   resolved "https://registry.yarnpkg.com/json-schema/-/json-schema-0.2.3.tgz#b480c892e59a2f05954ce727bd3f2a4e882f9e13"
   integrity sha1-tIDIkuWaLwWVTOcnvT8qTogvnhM=
 
-json-server@^0.14.0:
+json-server@^0.14.2:
   version "0.14.2"
   resolved "https://registry.yarnpkg.com/json-server/-/json-server-0.14.2.tgz#05774285ca458c0f76de0e8eb9c05ee1abf76953"
   integrity sha512-MfU7069e/kLp1e33n3JQ2DAH9UJrs/UYlXbzWgegBTXoGEmVkIzkO3T8ZyIkCTDBWzUeGTCBZV7brdyTcm6LWg==
