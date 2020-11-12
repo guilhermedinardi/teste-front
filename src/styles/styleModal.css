@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+.modal{
+    border: solid 2px;
+    width: 70%;
+    height: 70vh;
+    position: absolute;
+    top: -20px;
+    left: 60px;
+    z-index: 10;
+    background-color: #f6f6f6;
+    box-shadow: -1px 5px 25px rgba(0,0,0, 0.5);
+    border-radius: 10px;
+    opacity: 1;
+    
+}
+.titleModal{
+    margin-left: 20px;
+    font-family: Questrial, sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.toolNameModal{
+    font-family: Questrial, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.toolLinkModal{
+    font-family: Questrial, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.toolDescriptionModal{
+    font-family: Questrial, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    
+}
+.toolTagsModal{
+    font-family: Questrial, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.addTool{
+    border: 0;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+    padding: 0 20px;
+    font-family: Questrial, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline;
+    text-align: center;
+    float: right;
+    margin-top: 10px;
+    margin-right: 90px;
+}
+#nameModal{
+    background-color: #f6f6f6;
+    margin-left: 20px;
+    display: flex;
+    width: 81.7%;
+    min-height: 20px;
+    border: solid 2px #000;
+}
+
+#linkModal{
+    background-color: #f6f6f6;
+    margin-left: 20px;
+    display: flex;
+    width: 81.7%;
+    min-height: 20px;
+    border: solid 2px #000;
+}
+#description{
+    background-color: #f6f6f6;
+    margin-left: 20px;
+    display: flex;
+    width: 81.7%;
+    min-height: 60px;
+    border: solid 2px #000;
+}
+#tags{
+    background-color: #f6f6f6;
+    margin-left: 20px;
+    display: flex;
+    width: 81.7%;
+    min-height: 20px;
+    border: solid 2px #000;
+}
+@media(max-width: 767px){
+    .modal{
+        border: solid 2px;
+        width: 80%;
+        height: 70vh;
+        position: absolute;
+        top: -40px;
+        left: 20px;
+        z-index: 10;
+        background-color: #f6f6f6;
+        box-shadow: -1px 5px 25px rgba(0,0,0, 0.5);
+        border-radius: 10px;
+        opacity: 1;
+    }
+}

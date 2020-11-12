@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+.displaySearch{
+    position: absolute;
+    width: 41%;
+    top: 49px;
+    left: 3px;
+    background-color: lightgray;
+    font-family: Questrial, sans-serif;
+    font-size: 20px;
+}
+.content{
+    margin: 0 auto;
+}
