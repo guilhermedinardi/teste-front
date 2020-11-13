@@ -3,7 +3,7 @@ import axios from 'axios';
 
 //Consumes fake API data like Get, Post and Delete
 const api = axios.create({
-    baseURL: 'https://fakeapitestv4.herokuapp.com/'
+    baseURL: 'http://localhost:3000'
 })
 
 export default api;

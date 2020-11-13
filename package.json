@@ -19,7 +19,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "set PORT=8080 && react-scripts start",
+    "start": "set PORT=3001 && react-scripts start",
     "api": "npx json-server db.json",
     "build": "react-scripts build",
     "test": "react-scripts test",
