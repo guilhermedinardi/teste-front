@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "node.js",
-    "api": "npx json-server db.json",
+    "api": "https://fakeapitestv4.herokuapp.com/",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
