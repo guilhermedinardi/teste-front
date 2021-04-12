@@ -1,4 +1,8 @@
-<b>Como iniciar o projeto:</b>
+# Screenshot
+<img src="https://github.com/guilhermedinardi/teste-front/blob/main/src/assets/screenshot/home.png?raw=true">
+<img src="https://github.com/guilhermedinardi/teste-front/blob/main/src/assets/screenshot/modal.png?raw=true">
+
+# <b>Como iniciar o projeto:</b>
 
 - Para inicializar o server:<br>
 $ npx json-server db.json
